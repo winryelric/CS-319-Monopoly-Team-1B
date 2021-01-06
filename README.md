@@ -1,4 +1,4 @@
-# CS319-1 Team 1B Project: Monopoly
+# CS319 Team 1B : Monopoly Bilkent Edition
 
 ![Our Logo](src/gui/models/app_logo.jpeg)
 
